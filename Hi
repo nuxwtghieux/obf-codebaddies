@@ -4,7 +4,7 @@
     - GUI: START/STOP + tổng tiền + thu nhập + thời gian + hạn mức
     - AUTO RESTART KHI CHẾT/RESET/RƠI VOID
     - HẠN MỨC: Tự động bù phần còn thiếu -> Kick hiện nội dung
---]
+--]]
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
